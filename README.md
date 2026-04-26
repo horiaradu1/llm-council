@@ -1,6 +1,4 @@
-# llm-council
-
-# Model Council
+# LLM Council
 
 A multi-model AI agora for structured debate, critique, and synthesis.
 An MCP server for discussing complex topics across multiple LLMs — Claude, GPT, Gemini, Grok, and local models.
