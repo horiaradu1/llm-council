@@ -55,6 +55,12 @@ Potential areas to explore:
 - storing discussion transcripts
 - reusable council templates for different tasks
 
+### Important concept to explore - LLM WIKI:
+
+Store all the data in vaults/wikis, some sort of sorted "brain" for the information to better tailor to your needs
+
+[llm-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+
 ## References and Inspiration
 
 - [karpathy/llm-council](https://github.com/karpathy/llm-council)  
